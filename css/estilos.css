@@ -1,0 +1,37 @@
+li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+a.enlace-eliminar {
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.cabecera{
+    margin: auto;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 15px;
+    border-bottom: 1px solid aqua;
+   
+    
+}
+
+h2 {
+    background-color: aqua;
+    font-family: 'Sansita Swashed', cursive;
+    align-items: center;
+    text-align: center;
+    font-size: 35px;
+    padding: 1em;
+    margin-top: auto;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
